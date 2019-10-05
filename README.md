@@ -32,6 +32,7 @@ Write Algorithm in any language and contribute to HacktoberFest
 ## Java
 
 - `B` [Factorial](Java/Factorial.java)
+- `A` [LIS](Java/LIS.java)
 
 ## C
 
